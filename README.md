@@ -2,7 +2,7 @@
 
 git clone https://github.com/Reveillark/TPAnimation
 
-cd m2igai-anim
+cd TPAnimation
 
 git submodule update --init --recursive
 
