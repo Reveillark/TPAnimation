@@ -1,0 +1,7 @@
+prefix=/home/phenix/Documents/M2S1/Animation/m2igai-anim/Bundle-GNU/external
+includedir=${prefix}/include
+
+Name: GLM
+Description: OpenGL Mathematics
+Version: 0.9.9
+Cflags: -I${includedir}
